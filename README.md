@@ -1,15 +1,10 @@
-# 🚀 Welcome to your new awesome project!
+# Algorithme de résolution du MasterMind
 
-This project has been created using **webpack scaffold**, you can now run
+## Equipe
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+- Florian Bouillon
+- Théo Memin
+- Charpentier Guillaume
+- Maxime Sorin
+- Clément Fourrier
+- Nicolas BROSSARD
